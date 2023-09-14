@@ -1,3 +1,10 @@
+import React from 'react';
+
 export default function Profile() {
-    return <h1>Proflie</h1>
+    return (
+        <div>
+            
+        </div>
+    );
 }
+
